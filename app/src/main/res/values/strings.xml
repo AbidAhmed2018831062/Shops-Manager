@@ -1,0 +1,140 @@
+<resources>
+    <string name="name">Shops</string>
+    <string name="name1">দোকান</string>
+    <string name="Entry">Name</string>
+    <string name="Entry1">নাম</string>
+    <string name="Item">Item</string>
+    <string name="Item1">জিনিস</string>
+    <string name="Amount">Amount</string>
+    <string name="Amount1">টাকা</string>
+    <string name="System">Pay</string>
+    <string name="System1">পরিশোধিত</string>
+    <string name="New">Add New Item</string>
+    <string name="New1">নতুন আইটেম যোগ করুন</string>
+    <string name="Phone">Enter Your Phone Number</string>
+    <string name="Phone1">আপনার ফোন নম্বর লিখুন</string>
+    <string name="OTP">OTP was sent to your number\nEnter The OTP to proceed</string>
+    <string name="OTP1">OTP was sent to your number\nEnter The OTP to proceed</string>
+    <string name="Send">Send OTP</string>
+    <string name="Send1">ওটিপি পাঠান</string>
+    <string name="OwnerName">Enter Your Name</string>
+    <string name="OwnerName1">আপনার ফোন নম্বর লিখুন</string>
+    <string name="OwnerEmail">Enter Your Email</string>
+    <string name="OwnerEmail1">আপনার ইমেইল লিখুন </string>
+    <string name="Personal">Enter Your Personal Infromation</string>
+    <string name="Personal1">আপনার ব্যক্তিগত তথ্য লিখুন</string>
+    <string name="Age">Enter Your Age:</string>
+    <string name="Age1">বয়স লিখুন</string>
+    <string name="Finish">Finish</string>
+    <string name="Finish1">শেষ করুন</string>
+    <string name="Business">Enter Your Business Name</string>
+    <string name="Business1">আপনার ব্যবসার নাম লিখুন</string>
+    <string name="WatchAll">Watch All</string>
+    <string name="WatchAll1">সব দেখুন</string>
+    <string name="Show">List of Sold Things Today</string>
+    <string name="Show1">আজ বিক্রি হওয়া জিনিসের তালিকা
+</string>
+<string name="NEwB">Do You Want To Add A New Business?</string>
+<string name="NEwB1">আপনি কি একটি নতুন ব্যবসা যুক্ত করতে চান?</string>
+<string name="Old">Do You Want To Get Add With An Existing Business?</string>
+<string name="Old1">আপনি কি একটি বিদ্যমান ব্যবসার সাথে যুক্ত হতে চান?</string>
+<string name="Ask">Share this code with your employees or partners to add them to your business:</string>
+<string name="Ask1">আপনার ব্যবসায় যোগ করার জন্য এই কোডটি আপনার কর্মচারী বা অংশীদারদের সাথে শেয়ার করুন:</string>
+<string name="Refer">Enter The Refer Code</string>
+<string name="Refer1">রেফার কোড লিখুন</string>
+<string name="CodeError">No Such Code Exists</string>
+<string name="CodeError1">এমন কোন কোড বিদ্যমান নেই</string>
+
+
+
+    <string-array name="Age1">
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 31 </item>
+        <item> 32 </item>
+        <item> 33 </item>
+        <item> 34 </item>
+        <item> 35 </item>
+        <item> 36 </item>
+        <item> 37 </item>
+        <item> 38 </item>
+        <item> 39 </item>
+        <item> 40 </item>
+        <item> 41 </item>
+        <item> 42 </item>
+        <item> 43 </item>
+        <item> 44 </item>
+        <item> 45 </item>
+        <item> 46 </item>
+        <item> 47 </item>
+        <item> 48 </item>
+        <item> 49 </item>
+        <item> 50 </item>
+        <item> 51 </item>
+        <item> 52 </item>
+        <item> 53 </item>
+        <item> 54 </item>
+        <item> 55 </item>
+        <item> 56 </item>
+        <item> 57 </item>
+        <item> 58 </item>
+        <item> 59 </item>
+        <item> 60 </item>
+        <item> 61 </item>
+        <item> 62 </item>
+        <item> 63 </item>
+        <item> 64 </item>
+        <item> 65 </item>
+        <item> 66 </item>
+        <item> 67 </item>
+        <item> 68 </item>
+        <item> 69 </item>
+        <item> 70 </item>
+        <item> 71 </item>
+        <item> 72 </item>
+        <item> 73 </item>
+        <item> 74 </item>
+        <item> 75 </item>
+        <item> 76 </item>
+        <item> 77 </item>
+        <item> 78 </item>
+        <item> 79 </item>
+        <item> 80 </item>
+        <item> 81 </item>
+        <item> 82 </item>
+        <item> 83 </item>
+        <item> 84 </item>
+        <item> 85 </item>
+        <item> 86 </item>
+        <item> 87 </item>
+        <item> 88 </item>
+        <item> 89 </item>
+        <item> 90 </item>
+        <item> 91 </item>
+        <item> 92 </item>
+        <item> 93 </item>
+        <item> 94 </item>
+        <item> 95 </item>
+        <item> 96 </item>
+        <item> 97 </item>
+        <item> 98 </item>
+        <item> 99 </item>
+        <item> 100 </item>
+
+    </string-array>
+</resources>
